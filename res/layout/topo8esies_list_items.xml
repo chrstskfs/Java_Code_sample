@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    >
+
+<ImageView
+    android:id="@+id/image_topo8esia"
+    android:layout_width="60dp"
+    android:layout_height="40dp"
+    android:layout_margin="5dp"
+    android:src="@drawable/melissokomeio"
+    />
+
+<TextView
+    android:id="@+id/topo8esia_display"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:textColor="@android:color/black"
+    android:layout_margin="10dp"
+    android:paddingTop="10dp"
+    android:layout_toRightOf="@+id/image_topo8esia"
+    android:text="@string/item4"  />
+
+
+</RelativeLayout>

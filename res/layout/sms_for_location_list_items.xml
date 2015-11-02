@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+
+    <ImageView
+        android:id="@+id/item_imageViewSms_location"
+        android:layout_width="50dp"
+        android:layout_height="60dp"
+        android:layout_margin="5dp"
+        android:src="@drawable/melissokomeio"
+        />
+
+    <TextView
+        android:id="@+id/date_display_for_loc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/black"
+        android:layout_toRightOf="@+id/item_imageViewSms_location"
+        android:text="12"  />
+
+    <TextView
+        android:id="@+id/weight_display_for_loc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/black"
+        android:layout_below="@+id/date_display_for_loc"
+        android:layout_toRightOf="@+id/item_imageViewSms_location"
+        android:text="13"  />
+
+    <TextView
+        android:id="@+id/temperature_display_for_loc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/black"
+        android:layout_toRightOf="@+id/item_imageViewSms_location"
+        android:layout_below="@+id/weight_display_for_loc"
+        android:text="14"  />
+
+    <TextView
+        android:id="@+id/humidity_display_for_loc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/black"
+        android:layout_toRightOf="@+id/item_imageViewSms_location"
+        android:layout_below="@+id/temperature_display_for_loc"
+        android:text="15"  />
+
+</RelativeLayout>

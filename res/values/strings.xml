@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WebBeeScale</string>
+    <string name="title_section1">Ζυγαριές</string>
+    <string name="title_section2">Χάρτης</string>
+    <string name="title_section3">Τοποθεσίες</string>
+    <string name="title_section4">Ρυθμίσεις</string>
+    <string name="action_settings">Ρυθμίσεις</string>
+    <string name="title_activity_sms_lists_and_chart">Ιστορικό μηνημάτων</string>
+    <string name="title_section2_1">Μυνήματα</string>
+    <string name="title_section2_2">Διάγραμμα</string>
+    <string name="insertName">καταχωρήστε όνομα :</string>
+    <string name="insertPassword">καταχωρήστε κωδικό :</string>
+    <string name="insertEmail">καταχωρήστε ηλεκτρονική διεύθυνση (email) :</string>
+    <string name="item1"></string>
+    <string name="item2"></string>
+    <string name="item3"></string>
+    <string name="item4"></string>
+    <string name="title_activity_register_machine">Καραχώρηση Ζυγαριάς</string>
+    <string name="regZygariaNumber">Καταχωρείστε τον τηλεφωνικό αριθμό της ζυγαριάς </string>
+    <string name="title_activity_register_new_installment">Καραχώρηση τοποθέτησης</string>
+    <string name="regInstallationLoc"> Καταχωρείστε την τοποθεσία της ζυγαριάς </string>
+    <string name="regInstallationNumber"> Καταχωρείστε τον τηλεφωνικό αριθμό της ζυγαριάς </string>
+    <string name="title_activity_change_machine_location">Αλλαγή τοποθεσίας μηχανής</string>
+    <string name="regNewLoc"> Εισάγετε νέα τοποθεσία </string>
+    <string name="sendOK"> Αποθήκευση </string>
+    <string name="title_activity_sms_location_list">Ιστορικό μηνημάτων</string>
+    <string name="name">Εισάγεται κωδικό όνομα χρήστη</string>
+    <string name="title_activity_my_settings">Ρυθμίσεις</string>
+    <string name="title_activity_new_user_registry_form">Φόρμα καταχώρησης νέου χρήστη</string>
+    <string name="insertfirstname">Εισάγεται Όνομα</string>
+    <string name="insertlastname">Εισάγεται Επίθετο</string>
+    <string name="insertstreetnumber">Εισάγεται οδό και αριθμό κατοικίας</string>
+    <string name="inserttown">Εισάγεται πόλη κατοικείας</string>
+    <string name="insertpostalcode">Εισάγεται ταχυδρομικό κώδικα</string>
+    <string name="inserttelephone">Εισάγεται τηλέφωνο επικοινωνίας</string>
+    <string name="insertpasswrd">Εισάγεται προσωρικό κωδικό</string>
+    <string name="title_activity_calendar_like">Επιλογή μήνα</string>
+    <string name="december">Δεκέμβρης</string>
+    <string name="january">Γενάρης</string>
+    <string name="february">Φλεβάρης</string>
+    <string name="march">Μάρτης</string>
+    <string name="april">Απρίλης</string>
+    <string name="may">Μάιος</string>
+    <string name="june">Ιούνιος</string>
+    <string name="july">Ιούλιος</string>
+    <string name="august">Αύγουστος</string>
+    <string name="september">Σεπτέμβρης</string>
+    <string name="october">Οκτώβρης</string>
+    <string name="november">Νοέμβρης</string>
+    <string name="title_activity_list_data_for_location_and_month">Δεδομένα ανά έτος</string>
+    <string name="calendar">Επιλέξτε μήνα αναζήτησης</string>
+    <string name="title_activity_my_static_calendar">MyStaticCalendar</string>
+
+</resources>
